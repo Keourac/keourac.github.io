@@ -1,3 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.desktopdekoratoor {
+    display: block;
+    text-align: center;
+}
+
 @media only screen and (max-width: 600px) {
     .desktopdekoratoor {
       display: none;
