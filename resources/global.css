@@ -1,5 +1,11 @@
 @media only screen and (max-width: 600px) {
-    .desktopdekoratør {
+    .desktopdekoratoor {
+      display: none;
+    }
+  }
+
+  @media only screen and (min-width: 600px) {
+    .mobildekoratoor {
       display: none;
     }
   }
